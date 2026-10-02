@@ -1,0 +1,26 @@
+The dataset provides comprehensive information on individuals’ daily physical activity, sleep patterns, and body measurements. 
+It contains 12,625 records and 18 features, combining both activity tracking and health metrics. 
+The numerical features include daily step counts, calories burned, time spent in different activity levels (sedentary, lightly, fairly, and very active),distances covered, and total minutes of sleep and bed time. Additionally, it includes personal health indicators such as weight (in kg), height (in meters), and BMI. 
+The categorical feature ActivityDayName represents the day of the week for each record. 
+Overall, this dataset offers valuable insights into how physical activity, rest, and body composition relate to overall fitness levels, making it suitable for exploratory data analysis, correlation studies, and predictive modeling in health and wellness analytics.
+
+Dataset Column Details
+
+#TotalSteps	                  Total number of steps taken in a day.
+#Calories	                    Total calories burned during the day.
+#SedentaryMinutes	            Minutes spent being sedentary (sitting or lying down).
+#LightlyActiveMinutes	        Minutes spent doing light activities.
+#FairlyActiveMinutes	        Minutes spent doing moderate-intensity activities.
+#VeryActiveMinutes	          Minutes spent doing vigorous-intensity activities.
+#SedentaryActiveDistance	    Distance covered while sedentary (usually near zero).
+#LightActiveDistance	        Distance covered during light activities (e.g., walking).
+#ModeratelyActiveDistance     Distance covered during moderate activity.
+#VeryActiveDistance	          Distance covered during vigorous activity.
+#TotalActiveMinutes	          Total minutes of physical activity (sum of active minutes).
+#TotalDistance	              Overall distance covered in kilometers/miles (depending on data source).
+#ActivityDayName	            Day of the week corresponding to the activity data.
+#TotalMinutesAsleep	          Total minutes spent sleeping.
+#TotalTimeInBed	              Total time spent in bed (includes awake time).
+#WeightKg	                    Weight of the user in kilograms.
+#Heightm	                    Height of the user in meters.
+#BMI	                        Body Mass Index (calculated as weight/height²).

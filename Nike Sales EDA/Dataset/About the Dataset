@@ -1,0 +1,20 @@
+The Nike Sales dataset contains detailed information about Nike’s product sales across different regions and customer categories. 
+It includes data on orders, product details, pricing, discounts, revenue, and profit. 
+The dataset helps analyze sales performance based on factors like gender, product line, region, and sales channel (online or retail). 
+It can be used to study trends in customer preferences, profitability, and overall business performance
+
+Dataset Columns Details
+
+#Order_ID	          Unique identification number assigned to each sales order.
+#Gender_Category	  Indicates the target customer group — Men, Women, or Kids.
+#Product_Line	      Represents the category or line of Nike products (e.g., Running, Soccer, Lifestyle).
+#Product_Name	      The specific name or model of the Nike product sold.
+#Size	              The size of the product (e.g., S, M, L, XL).
+#Units_Sold	        Number of units of the product sold in that order.
+#MRP	              The Maximum Retail Price of the product before discount.
+#Discount_Applied   The percentage or proportion of discount applied to the product.
+#Revenue	          The total amount of money generated from the sale after applying discounts.
+#Order_Date	        The date on which the order was placed.
+#Sales_Channel	    The medium through which the sale was made — Online or Retail.
+#Region	            The geographical area or city where the sale took place.
+#Profit	            The total profit earned from the sale after deducting costs.
